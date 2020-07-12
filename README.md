@@ -1,2 +1,4 @@
 # Applied-Economics-Project
-A term paper as a part of the course Applied Economics offered in the Jul-Nov 2018 
+Term paper as a part of the course Applied Economics offered in the Jul-Nov 2018 
+## Abstract
+In this paper we would like to discuss the relationship between the coal production and the GDP of the India. The time frame of observation is 2012-2017 for the same. The paper consists of the data which were procured from Prowess (From CMIE) and the regression analyses which were performed on the data. For accurate computation and to investigate casual relations between few other additional variables such as Research and Development Expenses and Environmental Expenses were taken into consideration. The results shows that there is a strong correlation between GDP and the industrial sales alone, but when we compare GDP with all three variables, there is no significant correlation with any of the parameters. Please refer to the paper for the work. 
